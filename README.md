@@ -11,3 +11,6 @@
 
 
 ## Project Overview
+This project is an end-to-end Data Analytics solution designed to analyze vendor performance by evaluating sales, purchases, profitability, inventory turnover, and operational efficiency. The project demonstrates the complete analytics workflow, beginning with raw CSV data ingestion, data transformation using SQL and Python, exploratory data analysis (EDA), and culminating in an interactive Power BI dashboard for business decision-making.
+
+The objective is to help stakeholders identify high-performing vendors, improve procurement strategies, optimize inventory management, and maximize profitability through data-driven insights.
