@@ -43,3 +43,14 @@ This project addresses these challenges by integrating purchasing, sales, pricin
     - Profit Margin = Gross Profit / Total Sales Dollars
     - Sales-to-Purchase Ratio = Total Sales Dollars / Total Purchase Dollars
     - Stock Turnover = Total Sales Quantity / Total Purchase Quantity
+
+### 3. Exploratory Data Analysis (EDA)
+Performed statistical and visual analysis to uncover business insights, including:
+
+- Vendor-wise sales and purchase analysis.
+- Gross profit analysis.
+- Profit margin distribution.
+- Purchase contribution (Pareto Analysis).
+- Inventory turnover analysis.
+- Correlation between purchase cost and sales.
+- Detection of high-performing and underperforming vendors.
