@@ -30,3 +30,16 @@ This project addresses these challenges by integrating purchasing, sales, pricin
 
 ## Project Workflow
 ### 1. Data Ingestion
+- Imported multiple CSV datasets into a SQLite database using Python.
+- Implemented chunk-based ingestion for efficient processing of large datasets.
+- Added logging for monitoring the ingestion process and error handling.
+
+### 2. Data Processing & Feature Engineering
+- Combined purchase, sales, and freight information using SQL queries.
+- Generated a consolidated vendor summary table.
+- Performed data cleaning by handling missing values, correcting data types, and standardizing vendor names.
+- Engineered business metrics including:
+    - Gross Profit = Total Sales − Total Purchase Dollars
+    - Profit Margin = Gross Profit / Total Sales Dollars
+    - Sales-to-Purchase Ratio = Total Sales Dollars / Total Purchase Dollars
+    - Stock Turnover = Total Sales Quantity / Total Purchase Quantity
