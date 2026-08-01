@@ -8,3 +8,6 @@
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights%20%26%20Visualization-brightgreen)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Future%20Scope-orange)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## Project Overview
