@@ -17,3 +17,4 @@ The objective is to help stakeholders identify high-performing vendors, improve 
 
 
 ## Business Problems
+Organizations often purchase products from multiple vendors but lack a centralized view of vendor performance. Without meaningful analytics, it becomes difficult to answer questions such as:
