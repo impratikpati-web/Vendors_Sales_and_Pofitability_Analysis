@@ -82,3 +82,20 @@ Developed a dynamic dashboard featuring:
 - #### Jupyter Notebook
 - #### Power BI: dashboarding and visualization
 - #### Git & GitHub
+
+
+## Business Value
+This project demonstrates how raw operational data can be transformed into actionable business intelligence. By integrating ETL, SQL, Python analytics, and Power BI visualization, the solution enables organizations to monitor vendor performance, identify profit opportunities, improve inventory management, and support strategic procurement decisions.
+
+## Skills Demonstrated
+- Data Cleaning
+- ETL Pipeline Development
+- SQL Querying
+- Feature Engineering
+- Exploratory Data Analysis
+- Business Intelligence
+- Data Visualization
+- Power BI Dashboard Development
+- Statistical Analysis
+- Business KPI Design
+- GitHub Project Documentation
