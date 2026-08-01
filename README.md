@@ -54,3 +54,15 @@ Performed statistical and visual analysis to uncover business insights, includin
 - Inventory turnover analysis.
 - Correlation between purchase cost and sales.
 - Detection of high-performing and underperforming vendors.
+
+### 4. Interactive Power BI Dashboard
+Developed a dynamic dashboard featuring:
+
+- KPI Cards.
+- Scatter Plot for Sales vs. Profit.
+- Vendor-wise Profitability Analysis.
+- Purchase Contribution Analysis.
+- Performance Comparison Visualizations.
+
+
+## Key Insights
