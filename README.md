@@ -55,6 +55,17 @@ Performed statistical and visual analysis to uncover business insights, includin
 - Correlation between purchase cost and sales.
 - Detection of high-performing and underperforming vendors.
 
+<img width="1338" height="547" alt="image" src="https://github.com/user-attachments/assets/d7e8586b-aedf-4e16-8ec9-bff003c6cdf4" />
+<img width="887" height="687" alt="image" src="https://github.com/user-attachments/assets/3fead73c-bd08-4600-bcd2-f284f7c43b09" />
+<img width="732" height="447" alt="image" src="https://github.com/user-attachments/assets/666d2e4d-64ff-4a9c-99b1-da5ee4eac802" />
+<img width="906" height="293" alt="image" src="https://github.com/user-attachments/assets/7c30c5ed-d6b0-468c-80d1-567929ede6c4" />
+<img width="777" height="627" alt="image" src="https://github.com/user-attachments/assets/e5665da3-6d2a-484e-bb73-c7cfffd7e069" />
+<img width="842" height="522" alt="image" src="https://github.com/user-attachments/assets/2d8f0c17-4d83-4d52-8f94-57a9bfdd9d08" />
+<img width="846" height="482" alt="image" src="https://github.com/user-attachments/assets/c271a8a2-f9b3-419f-a7eb-11ad08b87caf" />
+
+
+
+
 ### 4. Interactive Power BI Dashboard
 Developed a dynamic dashboard featuring:
 
