@@ -76,7 +76,7 @@ Developed a dynamic dashboard featuring:
 
 
 ## Tech Stack
- Python: pandas, numpy, SQLAlchemy, matplotlib, seaborn, scipy, os
+- #### Python: pandas, numpy, SQLAlchemy, matplotlib, seaborn, scipy, os
 - #### SQLite: local database for staging and transformation
 - #### SQL: CTE-based aggregation queries
 - #### Jupyter Notebook
