@@ -68,3 +68,7 @@ Developed a dynamic dashboard featuring:
 
 
 ## Key Insights
+- A small number of top vendors account for a disproportionate share of total procurement spend.
+- Bulk purchasing meaningfully lowers unit price, but the benefit plateaus past an optimal order size.
+- Some vendors carry high unsold inventory value, tying up capital in slow-moving stock.
+- Low-performing vendors show a higher average profit margin range than top-performing vendors — a hypothesis test confirms this difference is statistically significant, suggesting top vendors may be competing on volume/price rather than margin.
