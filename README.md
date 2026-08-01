@@ -64,7 +64,8 @@ Developed a dynamic dashboard featuring:
 - Purchase Contribution Analysis.
 - Performance Comparison Visualizations.
 
-<img width="1281" height="717" alt="image" src="https://github.com/user-attachments/assets/4a624661-ea1f-49a3-ac28-131692301eb0" />
+<img width="1283" height="722" alt="image" src="https://github.com/user-attachments/assets/78668159-0f89-4842-9286-4c0855478f97" />
+
 
 
 ## Key Insights
