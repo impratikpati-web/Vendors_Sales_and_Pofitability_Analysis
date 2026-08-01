@@ -26,3 +26,7 @@ Organizations often purchase products from multiple vendors but lack a centraliz
 - How efficiently is inventory being converted into sales?
 
 This project addresses these challenges by integrating purchasing, sales, pricing, and freight data into a unified analytical model.
+
+
+## Project Workflow
+### 1. Data Ingestion
