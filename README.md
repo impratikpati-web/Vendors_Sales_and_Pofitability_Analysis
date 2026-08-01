@@ -18,3 +18,11 @@ The objective is to help stakeholders identify high-performing vendors, improve 
 
 ## Business Problems
 Organizations often purchase products from multiple vendors but lack a centralized view of vendor performance. Without meaningful analytics, it becomes difficult to answer questions such as:
+
+- Which vendors generate the highest revenue and profit?
+- Which vendors contribute the most to total purchases?
+- Are there vendors with high purchase costs but low sales?
+- Which products have poor inventory turnover?
+- How efficiently is inventory being converted into sales?
+
+This project addresses these challenges by integrating purchasing, sales, pricing, and freight data into a unified analytical model.
